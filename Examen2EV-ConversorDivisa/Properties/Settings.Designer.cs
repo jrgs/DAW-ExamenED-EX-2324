@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Examen2EV_ConversorDivisa.Properties
+namespace ExamenEX_ConversorDivisa.Properties
 {
 
 
