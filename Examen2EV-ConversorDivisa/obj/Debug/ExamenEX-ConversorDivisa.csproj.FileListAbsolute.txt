@@ -1,0 +1,9 @@
+C:\Users\usuario\source\repos\jrgs\DAW-ExamenED-EX-2324\Examen2EV-ConversorDivisa\bin\Debug\Examen2EV-ConversorDivisa.exe
+C:\Users\usuario\source\repos\jrgs\DAW-ExamenED-EX-2324\Examen2EV-ConversorDivisa\bin\Debug\Examen2EV-ConversorDivisa.pdb
+C:\Users\usuario\source\repos\jrgs\DAW-ExamenED-EX-2324\Examen2EV-ConversorDivisa\obj\Debug\ExamenEX-ConversorDivisa.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\jrgs\DAW-ExamenED-EX-2324\Examen2EV-ConversorDivisa\obj\Debug\Ejercicio10.Form1.resources
+C:\Users\usuario\source\repos\jrgs\DAW-ExamenED-EX-2324\Examen2EV-ConversorDivisa\obj\Debug\Examen2EV_ConversorDivisa.Properties.Resources.resources
+C:\Users\usuario\source\repos\jrgs\DAW-ExamenED-EX-2324\Examen2EV-ConversorDivisa\obj\Debug\ExamenEX-ConversorDivisa.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\jrgs\DAW-ExamenED-EX-2324\Examen2EV-ConversorDivisa\obj\Debug\ExamenEX-ConversorDivisa.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\jrgs\DAW-ExamenED-EX-2324\Examen2EV-ConversorDivisa\obj\Debug\Examen2EV-ConversorDivisa.exe
+C:\Users\usuario\source\repos\jrgs\DAW-ExamenED-EX-2324\Examen2EV-ConversorDivisa\obj\Debug\Examen2EV-ConversorDivisa.pdb
