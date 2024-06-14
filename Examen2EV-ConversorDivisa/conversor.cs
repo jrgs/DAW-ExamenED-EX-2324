@@ -7,19 +7,14 @@ namespace ExamenEX_ConversorDivisa
 {
     class conversor
     {
-        // Declaramos la constante que convierte entre euros y dolares.
-        //
-        public const double CONV1 = 0.826;  // 1 dolar, 0,826 euros
-        public const double CONV2 = 1.1485; // 1 libra, 1,1485 euros
-
-        public double conv1(String text) {  // dólares a euros
+        public double conv1(String text) {  // dólares a euros, un dólar -> 0,83 euros
             if (text.Length==0)
                 return 0;           // Error, el texto no puede estar vacío
 
             double dolares;
 
             dolares = double.Parse(text);
-            return dolares*CONV1;
+            return dolares/0.83;
         }
 
         public double conv2(String text) // euros a dólares
@@ -30,9 +25,9 @@ namespace ExamenEX_ConversorDivisa
             double euros;
 
             euros = double.Parse(text);
-            return euros/CONV1;
+            return euros*0.83;
         }
-        public double conv3(String text) // libras a euros
+        public double conv3(String text) // libras a euros, 1 libra -> 1,15 euros
         {  
             if (text.Length==0)
                 return 0;           // Error, el texto no puede estar vacío
@@ -40,7 +35,7 @@ namespace ExamenEX_ConversorDivisa
             double libras;
 
             libras = double.Parse(text);
-            return libras*CONV2;
+            return libras/1.15;
         }
 
         public double conv4(String text) // euros a libras
@@ -51,7 +46,7 @@ namespace ExamenEX_ConversorDivisa
             double euros;
 
             euros = double.Parse(text);
-            return euros/CONV2;
+            return euros*1.15;
         }
     }
 }
